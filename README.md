@@ -8,14 +8,7 @@ Right now I'm working on a Music Player app that started as a school project but
 
 
 ## Stats
-
-<style type="text/css">
-   a {
-      text-decoration:none;
-   }
-</style>
 <div>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gami13&theme=transparent&hide_border=false" alt="gami13" style="margin-right: 20px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gami13&layout=compact&theme=transparent&hide=html,css,powershell&langs_count=8" alt="gami13" />
 </div>
