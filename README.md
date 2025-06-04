@@ -1,19 +1,16 @@
 # Hi, I'm Gami
 
-A developer from Poland with a passion for all things tech. 
-Currently preparing to start a computer science degree at university.
-I have spent most of my time in web and mobile development, but I am always eager to learn new things and explore different areas of technology.
+A developer from Poland with a background in web and mobile development, preparing for a computer science degree. I focus on practical application and continuous learning about technology.
 
-Right now I'm working on a Music Player app that started as a school project but I decided to continue it as a personal one. Also planning on creating a setup script for my PC that will allow me to easily set up my development environment on any machine.
+Currently, I'm developing a Music Player app (a personal project evolved from a school assignment) and creating a PC setup script to streamline my development environment setup.
 
-
-## Stats
+## 📊 GitHub Activity
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gami13&theme=transparent&hide_border=false" alt="gami13" style="margin-right: 20px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gami13&layout=compact&theme=transparent&hide=html,css,powershell&langs_count=8" alt="gami13" />
 </div>
 
-## Tools
+## 🛠️ Tools
 <!-- Github -->
 <a href="https://github.com" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
@@ -100,19 +97,60 @@ Right now I'm working on a Music Player app that started as a school project but
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" />
 </a>
 
-## Previous work experience
-<!-- 2024 May-June and July-September AND 2023 May-June at TLC, first two are internships, last one is a full-time job -->
-<!--2021 June-July internship at PELG -->
+## Previous Work Experience
 
-## Education and certifications
-<!-- 2020-2025 Programming Technician at Zespół Szkół Nr 1 Im. Ignacego Łukasiewicza, graduated with the highest grade average in the whole school (5.2)-->
-<!-- Planning Computer Science college in 2025 -->
-<!-- INF-03 certificate 97% -->
-<!-- INF-04 certificate 95% -->
-<!-- ECDL - S6 - Web Editing Certificate -->
-<!-- ECDL - S10 - Computing Certificate -->
-<!-- Kompugraf - Raster Graphics Course -->
-## Significant projects
+### 🏢 TLC, Poland
+
+**Software Developer** | *July - September 2024*
+- Led the development and deployment of a React Native delivery quality control application, including a comprehensive data input editor
+- Automated calculations and reduced manual errors for QA personnel, significantly improving efficiency and data accuracy
+- Completed the project two weeks ahead of schedule
+
+**Software Development Intern** | *May - June 2024*
+- Developed a foundational prototype for a delivery quality control application, implementing core functionalities for two key elements and a basic editor for new data input
+- This prototype effectively demonstrated a viable solution concept, which directly led to securing a full-time position for the summer
+
+**Software Development Intern** | *May - June 2023*
+- Engineered a prototype fault reporting system using C# and MAUI that captured issue descriptions, locations, and photos for database storage
+
+
+### 🏢 PELG, Poland
+
+**IT Intern** | *June - July 2021*
+- Enhanced programming proficiency by developing basic console applications and contributing to an internal PHP project
+- Provided IT support, including diagnosing, cleaning, and updating computers, ensuring optimal system performance
+
+## 🎓 Education
+**Programming Technician** | Zespół Szkół Nr 1 Im. Ignacego Łukasiewicza, Poland
+*Graduated 2025*
+
+- Achieved the highest grade average in the school (5.2).
+- Specialized in software development, database management, and web technologies.
+- Gained comprehensive knowledge in programming fundamentals, algorithms, and software engineering principles.
+
+**Computer Science Degree** | Planned Start: 2025
+- Intending to pursue higher education in Computer Science to deepen theoretical knowledge and explore advanced topics in software development.
+
+## 🏆 Certifications
+**INF-03 Certificate** (Score: 97%)
+- Demonstrates vocational proficiency in website and database programming, creation, and administration.
+- Skilled in developing applications, designing and managing databases, and creating/managing web applications.
+
+**INF-04 Certificate** (Score: 95%)
+- Confirms vocational qualifications in designing, programming, and testing applications.
+
+**ECDL - S6 Web Editing Certificate**
+- Validates comprehensive understanding of web publishing concepts, including HTML, CSS, responsive design, and web accessibility.
+- Proficient in creating, uploading, and maintaining professional websites.
+
+**ECDL - S10 Computing Certificate**
+- Establishes a strong foundation in computational thinking, problem-solving, algorithm design, and programming logic.
+- Demonstrates practical application of programming concepts across various paradigms.
+
+**Kompugraf - Raster Graphics Course**
+- Provided specialized training and proficiency in digital image editing and graphic design using industry-standard software (e.g., Photoshop).
+
+## Significant Projects
 <!-- Music Player app -->
 <!-- Can I skip - an app that calculates how many classes you can skip before hitting an attendance threshold -->
 <!-- WSV implementation in Go -->
