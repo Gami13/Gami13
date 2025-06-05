@@ -162,8 +162,7 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 - Note: Currently non-functional due to external authentication changes of the school's chosen system.
 
 ### [**WSV in Go**](https://github.com/Gami13/WSV-golang) (Go)
-- Created a Go implementation for the Whitespace Separated Values (WSV) format.
-- Developed a library for parsing and serializing structured data in a human-readable WSV format, addressing a gap in Go-specific solutions.
+- Developed a library for parsing and serializing structured data in a human-readable WSV format, which was not available for Go before.
 
 
 ### [**Discord Client**](https://github.com/ErisTeam/Strife) (Tauri, SolidJS, TypeScript, Rust)
@@ -171,6 +170,7 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 - Drove TypeScript-side development, focusing on core functionality and layout.
 - Implemented innovative features like tabbed channels and enhanced personalization, distinguishing it from existing clients.
 - Note: Project was later abandoned due to not achieveing the performance improvements we wanted (more details in the repo).
+- Learning from this, I'd now use a framework like React Native to achieve our performance goals, as it compiles directly to native UI instead of relying on a webview.
 
 
 ## Contact
