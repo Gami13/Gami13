@@ -151,15 +151,35 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 - Provided specialized training and proficiency in digital image editing and graphic design using industry-standard software (e.g., Photoshop).
 
 ## Significant Projects
-<!-- Music Player app -->
-<!-- Can I skip - an app that calculates how many classes you can skip before hitting an attendance threshold -->
-<!-- WSV implementation in Go -->
-<!-- Discord client - spent a significant amount of time on it, but we later abandoned it because we lost passion, and have noticed that Tauri is not actually that much more efficient than Electron -->
+### [**Music Player**](https://github.com/Gami13/MusicPlayer) (Android - Kotlin)
+- Engineered a feature-rich music player with direct YouTube song download capabilities.
+- Implemented modern Android UI/UX principles, including Material Design 3, Material You dynamic theming (adapting to wallpaper and system settings), internationalization, and background playback.
+<!-- Designed robust song organization and management features. -->
+
+### [**Can I Skip**](https://github.com/Gami13/can-i-skip) (Android - Kotlin)
+- Developed an Android app to track school attendance and calculate allowed absences based on a user-set percentage.
+- Leveraged an unofficial SDK to integrate with the school's attendance system, showcasing API interaction and native Android development skills.
+- Note: Currently non-functional due to external authentication changes of the school's chosen system.
+
+### [**WSV in Go**](https://github.com/Gami13/WSV-golang) (Go)
+- Created a Go implementation for the Whitespace Separated Values (WSV) format.
+- Developed a library for parsing and serializing structured data in a human-readable WSV format, addressing a gap in Go-specific solutions.
+
+
+### [**Discord Client**](https://github.com/ErisTeam/Strife) (Tauri, SolidJS, TypeScript, Rust)
+- Led a 5-person team in developing a Discord client, overseeing both Rust and TypeScript development.
+- Drove TypeScript-side development, focusing on core functionality and layout.
+- Implemented innovative features like tabbed channels and enhanced personalization, distinguishing it from existing clients.
+- Note: Project was later abandoned due to not achieveing the performance improvements we wanted (more details in the repo).
+
 
 ## Contact
-<!-- Marcin Czechowicz
-gamiofficial0@gmail.com (probably gonna change to the outlook one if i find a good email client) -->
-<!-- Discord: gami13, most likely to respond in a matter of minutes -->
+You can reach me via email or Discord:
+
+-   **Email:** [gamiofficial0@gmail.com](mailto:gamiofficial0@gmail.com) | [marcinczechowicz@outlook.com](mailto:marcinczechowicz@outlook.com)
+-   **Discord:** gami13
+
+I'm most responsive on Discord.
 
 
 ## Timeline of my other projects
