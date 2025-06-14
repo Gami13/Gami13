@@ -4,11 +4,17 @@ A developer from Poland with a background in web and mobile development, prepari
 
 Currently, I'm developing a Music Player app (a personal project evolved from a school assignment) and creating a PC setup script to streamline my development environment setup.
 
+<br>
+
+
 ## 📊 GitHub Activity
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gami13&theme=transparent&hide_border=false" alt="gami13" style="margin-right: 20px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gami13&layout=compact&theme=transparent&hide=html,css,powershell&langs_count=8" alt="gami13" />
 </div>
+
+<br>
+
 
 ## 🛠️ Tools
 <!-- Github -->
@@ -39,6 +45,9 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 <a href="https://www.kernel.org/" target="_blank">
 <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" height="40"  alt="Linux" />
 </a>
+
+<br>
+
 
 ## Technology Stack
 <!-- Typescript -->
@@ -126,28 +135,49 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 <img src="https://custom-icon-badges.demolab.com/badge/Git-555555.svg?style=flat-square&logo=git" height="40"  alt="Git" />
 </a>
 
+<br>
+
+
 ## Previous Work Experience
 
 ### 🏢 TLC, Poland
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h4 style="font-size: 1em;">Software Developer</h4>
+    <span style="text-align: end;"><i>July - September 2024</i></span>
+</div>
 
-**Software Developer** | *July - September 2024*
 - Led the development and deployment of a React Native delivery quality control application, including a comprehensive data input editor
 - Automated calculations and reduced manual errors for QA personnel, significantly improving efficiency and data accuracy
 - Completed the project two weeks ahead of schedule
 
-**Software Development Intern** | *May - June 2024*
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h4 style="font-size: 1em;">Software Development Intern</h4>
+    <span style="text-align: end;"><i>May - June 2024</i></span>
+</div>
+
 - Developed a foundational prototype for a delivery quality control application, implementing core functionalities for two key elements and a basic editor for new data input
 - This prototype effectively demonstrated a viable solution concept, which directly led to securing a full-time position for the summer
 
-**Software Development Intern** | *May - June 2023*
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h4 style="font-size: 1em;">Software Development Intern</h4>
+    <span style="text-align: end;"><i>May - June 2023</i></span>
+</div>
+
 - Engineered a prototype fault reporting system using C# and MAUI that captured issue descriptions, locations, and photos for database storage
 
+<br>
 
 ### 🏢 PELG, Poland
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h4 style="font-size: 1em;">IT Intern</h4>
+    <span style="text-align: end;"><i>June - July 2021</i></span>
+</div>
 
-**IT Intern** | *June - July 2021*
 - Enhanced programming proficiency by developing basic console applications and contributing to an internal PHP project
 - Provided IT support, including diagnosing, cleaning, and updating computers, ensuring optimal system performance
+
+<br>
+
 
 ## 🎓 Education
 **Programming Technician** | Zespół Szkół Nr 1 Im. Ignacego Łukasiewicza, Poland
@@ -159,6 +189,8 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 
 **Computer Science Degree** | Planned Start: 2025
 - Intending to pursue higher education in Computer Science to deepen theoretical knowledge and explore advanced topics in software development.
+
+<br>
 
 ## 🏆 Certifications
 **INF-03 Certificate** (Score: 97%)
@@ -178,6 +210,8 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 
 **Kompugraf - Raster Graphics Course**
 - Provided specialized training and proficiency in digital image editing and graphic design using industry-standard software (e.g., Photoshop).
+
+<br>
 
 ## Significant Projects
 ### [**Music Player**](https://github.com/Gami13/MusicPlayer) (Android - Kotlin)
@@ -201,6 +235,8 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 - Note: Project was later abandoned due to not achieveing the performance improvements we wanted (more details in the repo).
 - Learning from this, I'd now use a framework like React Native to achieve our performance goals, as it compiles directly to native UI instead of relying on a webview.
 
+<br>
+
 
 ## Contact
 You can reach me via email or Discord:
@@ -209,6 +245,8 @@ You can reach me via email or Discord:
 -   **Discord:** gami13
 
 I'm most responsive on Discord.
+
+<br>
 
 
 ## Timeline of my other projects
