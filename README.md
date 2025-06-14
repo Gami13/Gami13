@@ -159,7 +159,7 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 - This prototype effectively demonstrated a viable solution concept, which directly led to securing a full-time position for the summer
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h4 style="font-size: 1em;">Software Development Intern</h4>
+    <b style="font-size: 1em;">Software Development Intern</b>
     <span style="text-align: end;"><i>May - June 2023</i></span>
 </div>
 
@@ -169,7 +169,7 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 
 ### 🏢 PELG, Poland
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <b style="font-size: 1em;">IT Intern</b>
+    <h5 style="font-size: 1em;">IT Intern</h5>
     <span style="text-align: end;"><i>June - July 2021</i></span>
 </div>
 
