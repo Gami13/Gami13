@@ -169,7 +169,7 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 
 ### 🏢 PELG, Poland
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h4 style="font-size: 1em;">IT Intern</h4>
+    <b style="font-size: 1em;">IT Intern</b>
     <span style="text-align: end;"><i>June - July 2021</i></span>
 </div>
 
