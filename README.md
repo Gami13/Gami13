@@ -141,10 +141,9 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 ## Previous Work Experience
 
 ### 🏢 TLC, Poland
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <h4 style="font-size: 1em;">Software Developer</h4>
-    <span style="text-align: end;"><i>July - September 2024</i></span>
-</div>
+**Software Developer**
+
+<sup>July - September 2024</sup>
 
 - Led the development and deployment of a React Native delivery quality control application, including a comprehensive data input editor
 - Automated calculations and reduced manual errors for QA personnel, significantly improving efficiency and data accuracy
@@ -159,7 +158,7 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 - This prototype effectively demonstrated a viable solution concept, which directly led to securing a full-time position for the summer
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <b style="font-size: 1em;">Software Development Intern</b>
+    <h4 style="font-size: 1em;">Software Development Intern</h4>
     <span style="text-align: end;"><i>May - June 2023</i></span>
 </div>
 
@@ -168,6 +167,8 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 <br>
 
 ### 🏢 PELG, Poland
+
+#### IT Intern <i>June - July 2021</i>
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <h5 style="font-size: 1em;">IT Intern</h5>
     <span style="text-align: end;"><i>June - July 2021</i></span>
