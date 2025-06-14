@@ -19,31 +19,31 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 ## 🛠️ Tools
 <!-- Github -->
 <a href="https://github.com" target="_blank"> 
-<img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=flat-square&logo=github" height="36"/>
+<img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=flat-square&logo=github" height="32"/>
 </a> 
 <!-- VSCode -->
 <a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://custom-icon-badges.demolab.com/badge/VSCode-001d30.svg?style=flat-square&logo=vscodeColored" alt="VSCode"  height="36"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/VSCode-001d30.svg?style=flat-square&logo=vscodeColored" alt="VSCode"  height="32"/> 
 </a> 
 <!-- Obsidian -->
 <a href="https://obsidian.md/" target="_blank"> 
-<img src="https://custom-icon-badges.demolab.com/badge/Obsidian-381a6d.svg?style=flat-square&logo=obsidianColored" alt="Obsidian"  height="36"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/Obsidian-381a6d.svg?style=flat-square&logo=obsidianColored" alt="Obsidian"  height="32"/> 
 </a>
 <!-- Android Studio -->
 <a href="https://developer.android.com/studio" target="_blank"> 
-<img src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-gray.svg?style=flat-square&logo=androidStudioColored" height="36"  alt="Android Studio" />
+<img src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-gray.svg?style=flat-square&logo=androidStudioColored" height="32"  alt="Android Studio" />
 </a>
 <!-- Windows -->
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D4.svg?style=flat-square&logo=windows11&logoColor=white" height="36"  alt="Windows" />
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D4.svg?style=flat-square&logo=windows11&logoColor=white" height="32"  alt="Windows" />
 </a>
 <!-- NixOS -->
 <a href="https://nixos.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/NixOS-13254a.svg?style=flat-square&logo=nixOSColored" height="36"  alt="NixOS" />
+<img src="https://custom-icon-badges.demolab.com/badge/NixOS-13254a.svg?style=flat-square&logo=nixOSColored" height="32"  alt="NixOS" />
 </a>
 <!-- Linux -->
 <a href="https://www.kernel.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" height="36"  alt="Linux" />
+<img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" height="32"  alt="Linux" />
 </a>
 
 <br>
@@ -52,87 +52,87 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 ## Technology Stack
 <!-- Typescript -->
 <a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/TypeScript-0b1a2c.svg?style=flat-square&logo=TypeScript" height="36"  alt="TypeScript"/>
+<img src="https://custom-icon-badges.demolab.com/badge/TypeScript-0b1a2c.svg?style=flat-square&logo=TypeScript" height="32"  alt="TypeScript"/>
 </a>
 <!-- CSS -->
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/CSS-072842.svg?style=flat-square&logo=css3" height="36" />
+<img src="https://custom-icon-badges.demolab.com/badge/CSS-072842.svg?style=flat-square&logo=css3" height="32" />
 </a>
 <!-- HTML -->
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/HTML-7d2b14.svg?style=flat-square&logo=htmlColored" height="36" />
+<img src="https://custom-icon-badges.demolab.com/badge/HTML-7d2b14.svg?style=flat-square&logo=htmlColored" height="32" />
 </a>
 <!-- Node.js -->
 <a href="https://nodejs.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=fff" height="36"  alt="Node.js"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=fff" height="32"  alt="Node.js"/>
 </a>
 <!-- StyleX -->
 <a href="https://stylex.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Stylex-181717.svg?style=flat-square&logo=stylex" height="36"  alt="StyleX"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Stylex-181717.svg?style=flat-square&logo=stylex" height="32"  alt="StyleX"/>
 </a>
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/React-181717.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height="36"  alt="React"/>
+<img src="https://custom-icon-badges.demolab.com/badge/React-181717.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height="32"  alt="React"/>
 </a>
 <!-- Expo (React Native)-->
 <a href="https://expo.dev/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Expo-181717.svg?style=flat-square&logo=expo&logoColor=fff" height="36"  alt="Expo (React Native)"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Expo-181717.svg?style=flat-square&logo=expo&logoColor=fff" height="32"  alt="Expo (React Native)"/>
 </a>
 <!-- Solid.js -->
 <a href="https://solidjs.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Solid.js-1d3148.svg?style=flat-square&logo=solidjs" height="36"  alt="Solid.js"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Solid.js-1d3148.svg?style=flat-square&logo=solidjs" height="32"  alt="Solid.js"/>
 </a>
 <!-- Golang -->
 <a href="https://golang.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Go-00ADD8.svg?style=flat-square&logo=gopher" height="36"  alt="Golang"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Go-00ADD8.svg?style=flat-square&logo=gopher" height="32"  alt="Golang"/>
 </a>
 <!-- Kotlin -->
 <a href="https://kotlinlang.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Kotlin-472e63.svg?style=flat-square&logo=kotlinColored" height="36"  alt="Kotlin" />
+<img src="https://custom-icon-badges.demolab.com/badge/Kotlin-472e63.svg?style=flat-square&logo=kotlinColored" height="32"  alt="Kotlin" />
 </a>
 <!-- Jetpack Compose -->
 <a href="https://developer.android.com/jetpack/compose" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Jetpack%20Compose-010b0f.svg?style=flat-square&logo=jetpackComposeColored" height="36"  alt="Jetpack Compose" />
+<img src="https://custom-icon-badges.demolab.com/badge/Jetpack%20Compose-010b0f.svg?style=flat-square&logo=jetpackComposeColored" height="32"  alt="Jetpack Compose" />
 </a>
 <!-- C# -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?style=flat-square&logo=csharpColored" height="36"  alt="C#" />
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?style=flat-square&logo=csharpColored" height="32"  alt="C#" />
 </a>
 <!-- .NET -->
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4.svg?style=flat-square&logo=.net&logoColor=fff" height="36"  alt=".NET" />
+<img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4.svg?style=flat-square&logo=.net&logoColor=fff" height="32"  alt=".NET" />
 </a>
 <!-- C++ -->
 <a href="https://isocpp.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/C++-003b69.svg?style=flat-square&logo=cpp" height="36"  alt="C++" />
+<img src="https://custom-icon-badges.demolab.com/badge/C++-003b69.svg?style=flat-square&logo=cpp" height="32"  alt="C++" />
 </a>
 <!-- Rust -->
 <a href="https://www.rust-lang.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Rust-762400.svg?style=flat-square&logo=rust" height="36"  alt="Rust" />
+<img src="https://custom-icon-badges.demolab.com/badge/Rust-762400.svg?style=flat-square&logo=rust" height="32"  alt="Rust" />
 </a>
 <!-- Java -->
 <a href="https://www.java.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Java-979593.svg?style=flat-square&logo=javaColored" height="36"  alt="Java" />
+<img src="https://custom-icon-badges.demolab.com/badge/Java-979593.svg?style=flat-square&logo=javaColored" height="32"  alt="Java" />
 </a>
 <!-- Vite -->
 <a href="https://vitejs.dev/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Vite-5056cc.svg?style=flat-square&logo=vitecolored" height="36"  alt="Vite" />
+<img src="https://custom-icon-badges.demolab.com/badge/Vite-5056cc.svg?style=flat-square&logo=vitecolored" height="32"  alt="Vite" />
 </a>
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=fff" height="36"  alt="MySQL" />
+<img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=fff" height="32"  alt="MySQL" />
 </a>
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgreSQL&logoColor=fff" height="36"  alt="PostgreSQL" />
+<img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgreSQL&logoColor=fff" height="32"  alt="PostgreSQL" />
 </a>
 <!-- SQLite -->
 <a href="https://www.sqlite.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/SQLite-555555.svg?style=flat-square&logo=sqlitecolored" height="36"  alt="SQLite" />
+<img src="https://custom-icon-badges.demolab.com/badge/SQLite-555555.svg?style=flat-square&logo=sqlitecolored" height="32"  alt="SQLite" />
 </a>
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Git-555555.svg?style=flat-square&logo=git" height="36"  alt="Git" />
+<img src="https://custom-icon-badges.demolab.com/badge/Git-555555.svg?style=flat-square&logo=git" height="32"  alt="Git" />
 </a>
 
 <br>
@@ -148,11 +148,15 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 - Automated calculations and reduced manual errors for QA personnel, significantly improving efficiency and data accuracy
 - Completed the project two weeks ahead of schedule
 
+<br>
+
 **Software Development Intern**  
 *May 2024 - June 2024*
 
 - Developed a foundational prototype for a delivery quality control application, implementing core functionalities for two key elements and a basic editor for new data input
 - This prototype effectively demonstrated a viable solution concept, which directly led to securing a full-time position for the summer
+
+<br>
 
 **Software Development Intern**  
 *May 2023 - June 2023*
@@ -171,14 +175,22 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 
 <br>
 
-
 ## 🎓 Education
-**Programming Technician** | Zespół Szkół Nr 1 Im. Ignacego Łukasiewicza, Poland  
+**Programming Technician** | Zespół Szkół Nr 1 Im. Ignacego Łukasiewicza  
 *September 2020 - June 2025*
 
 - Achieved the highest grade average in the school (5.2).
-- Specialized in software development, database management, and web technologies.
-- Gained comprehensive knowledge in programming fundamentals, algorithms, and software engineering principles.
+- Acquired foundational programming skills through hands-on training in languages such as [Python](https://www.python.org/), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), focusing on software development principles and problem-solving.
+- Gained experience in database management with [SQL](https://en.wikipedia.org/wiki/SQL) to design and query relational databases.
+- Web development with [HTML](https://en.wikipedia.org/wiki/HTML)/[CSS](https://en.wikipedia.org/wiki/CSS) and the most popular frameworks such as [React](https://react.dev/) and [Angular](https://angular.dev/), preparing for modern software development challenges.
+- Mobile app development using [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui) and [Android Studio](https://developer.android.com/studio) with [Kotlin](https://kotlinlang.org/), enhancing cross-platform development skills.
+- Developed and tested small-scale applications:
+    - Built a [website](https://github.com/Gami13/IgnacyLukasiewiczProject) showcasing the legacy of [Ignacy Łukasiewicz](https://pl.wikipedia.org/wiki/Ignacy_%C5%81ukasiewicz), the school’s patron.
+    - Created a [sorting algorithm visualizer](https://github.com/Gami13/SortingVisualizer) that includes the most popular algorithms, such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort.
+
+
+
+<br>
 
 **Computer Science Degree** | Planned Start: September 2025  
 - Intending to pursue higher education in Computer Science to deepen theoretical knowledge and explore advanced topics in software development.
@@ -207,6 +219,11 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 <br>
 
 ## Significant Projects
+
+### [**Stock Ticker for OBS**](https://github.com/Gami13/StockTicker) (Go)
+- Developed a stock ticker application for OBS Studio, allowing users to display real-time stock prices and market data on their streams.
+- Implemented web scraping techniques to fetch stock data from bing, that gets sent to the UI via websockets. The UI is served using embedded HTML files.
+
 ### [**Music Player**](https://github.com/Gami13/MusicPlayer) (Android - Kotlin)
 - Engineered a feature-rich music player with direct YouTube song download capabilities.
 - Implemented modern Android UI/UX principles, including Material Design 3, Material You dynamic theming (adapting to wallpaper and system settings), internationalization, and background playback.
