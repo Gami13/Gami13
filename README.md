@@ -141,26 +141,21 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 ## Previous Work Experience
 
 ### 🏢 TLC, Poland
-**Software Developer**
-
-<sup>July - September 2024</sup>
+**Software Developer**  
+*July 2024 - September 2024*
 
 - Led the development and deployment of a React Native delivery quality control application, including a comprehensive data input editor
 - Automated calculations and reduced manual errors for QA personnel, significantly improving efficiency and data accuracy
 - Completed the project two weeks ahead of schedule
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <h4 style="font-size: 1em;">Software Development Intern</h4>
-    <span style="text-align: end;"><i>May - June 2024</i></span>
-</div>
+**Software Development Intern**  
+*May 2024 - June 2024*
 
 - Developed a foundational prototype for a delivery quality control application, implementing core functionalities for two key elements and a basic editor for new data input
 - This prototype effectively demonstrated a viable solution concept, which directly led to securing a full-time position for the summer
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <h4 style="font-size: 1em;">Software Development Intern</h4>
-    <span style="text-align: end;"><i>May - June 2023</i></span>
-</div>
+**Software Development Intern**  
+*May 2023 - June 2023*
 
 - Engineered a prototype fault reporting system using C# and MAUI that captured issue descriptions, locations, and photos for database storage
 
@@ -168,11 +163,8 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 
 ### 🏢 PELG, Poland
 
-#### IT Intern <i>June - July 2021</i>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <h5 style="font-size: 1em;">IT Intern</h5>
-    <span style="text-align: end;"><i>June - July 2021</i></span>
-</div>
+**IT Intern**  
+*June 2021 - July 2021*
 
 - Enhanced programming proficiency by developing basic console applications and contributing to an internal PHP project
 - Provided IT support, including diagnosing, cleaning, and updating computers, ensuring optimal system performance
@@ -181,14 +173,14 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 
 
 ## 🎓 Education
-**Programming Technician** | Zespół Szkół Nr 1 Im. Ignacego Łukasiewicza, Poland
-*Graduated 2025*
+**Programming Technician** | Zespół Szkół Nr 1 Im. Ignacego Łukasiewicza, Poland  
+*September 2020 - June 2025*
 
 - Achieved the highest grade average in the school (5.2).
 - Specialized in software development, database management, and web technologies.
 - Gained comprehensive knowledge in programming fundamentals, algorithms, and software engineering principles.
 
-**Computer Science Degree** | Planned Start: 2025
+**Computer Science Degree** | Planned Start: September 2025  
 - Intending to pursue higher education in Computer Science to deepen theoretical knowledge and explore advanced topics in software development.
 
 <br>
