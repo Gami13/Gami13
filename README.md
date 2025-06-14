@@ -19,31 +19,31 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 ## 🛠️ Tools
 <!-- Github -->
 <a href="https://github.com" target="_blank"> 
-<img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=flat-square&logo=github" height="40"/>
+<img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=flat-square&logo=github" height="36"/>
 </a> 
 <!-- VSCode -->
 <a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://custom-icon-badges.demolab.com/badge/VSCode-001d30.svg?style=flat-square&logo=vscodeColored" alt="VSCode"  height="40"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/VSCode-001d30.svg?style=flat-square&logo=vscodeColored" alt="VSCode"  height="36"/> 
 </a> 
 <!-- Obsidian -->
 <a href="https://obsidian.md/" target="_blank"> 
-<img src="https://custom-icon-badges.demolab.com/badge/Obsidian-381a6d.svg?style=flat-square&logo=obsidianColored" alt="Obsidian"  height="40"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/Obsidian-381a6d.svg?style=flat-square&logo=obsidianColored" alt="Obsidian"  height="36"/> 
 </a>
 <!-- Android Studio -->
 <a href="https://developer.android.com/studio" target="_blank"> 
-<img src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-gray.svg?style=flat-square&logo=androidStudioColored" height="40"  alt="Android Studio" />
+<img src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-gray.svg?style=flat-square&logo=androidStudioColored" height="36"  alt="Android Studio" />
 </a>
 <!-- Windows -->
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D4.svg?style=flat-square&logo=windows11&logoColor=white" height="40"  alt="Windows" />
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D4.svg?style=flat-square&logo=windows11&logoColor=white" height="36"  alt="Windows" />
 </a>
 <!-- NixOS -->
 <a href="https://nixos.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/NixOS-13254a.svg?style=flat-square&logo=nixOSColored" height="40"  alt="NixOS" />
+<img src="https://custom-icon-badges.demolab.com/badge/NixOS-13254a.svg?style=flat-square&logo=nixOSColored" height="36"  alt="NixOS" />
 </a>
 <!-- Linux -->
 <a href="https://www.kernel.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" height="40"  alt="Linux" />
+<img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" height="36"  alt="Linux" />
 </a>
 
 <br>
@@ -52,87 +52,87 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 ## Technology Stack
 <!-- Typescript -->
 <a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/TypeScript-0b1a2c.svg?style=flat-square&logo=TypeScript" height="40"  alt="TypeScript"/>
+<img src="https://custom-icon-badges.demolab.com/badge/TypeScript-0b1a2c.svg?style=flat-square&logo=TypeScript" height="36"  alt="TypeScript"/>
 </a>
 <!-- CSS -->
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/CSS-072842.svg?style=flat-square&logo=css3" height="40" />
+<img src="https://custom-icon-badges.demolab.com/badge/CSS-072842.svg?style=flat-square&logo=css3" height="36" />
 </a>
 <!-- HTML -->
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/HTML-7d2b14.svg?style=flat-square&logo=htmlColored" height="40" />
+<img src="https://custom-icon-badges.demolab.com/badge/HTML-7d2b14.svg?style=flat-square&logo=htmlColored" height="36" />
 </a>
 <!-- Node.js -->
 <a href="https://nodejs.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=fff" height="40"  alt="Node.js"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=fff" height="36"  alt="Node.js"/>
 </a>
 <!-- StyleX -->
 <a href="https://stylex.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Stylex-181717.svg?style=flat-square&logo=stylex" height="40"  alt="StyleX"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Stylex-181717.svg?style=flat-square&logo=stylex" height="36"  alt="StyleX"/>
 </a>
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/React-181717.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height="40"  alt="React"/>
+<img src="https://custom-icon-badges.demolab.com/badge/React-181717.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height="36"  alt="React"/>
 </a>
 <!-- Expo (React Native)-->
 <a href="https://expo.dev/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Expo-181717.svg?style=flat-square&logo=expo&logoColor=fff" height="40"  alt="Expo (React Native)"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Expo-181717.svg?style=flat-square&logo=expo&logoColor=fff" height="36"  alt="Expo (React Native)"/>
 </a>
 <!-- Solid.js -->
 <a href="https://solidjs.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Solid.js-1d3148.svg?style=flat-square&logo=solidjs" height="40"  alt="Solid.js"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Solid.js-1d3148.svg?style=flat-square&logo=solidjs" height="36"  alt="Solid.js"/>
 </a>
 <!-- Golang -->
 <a href="https://golang.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Go-00ADD8.svg?style=flat-square&logo=gopher" height="40"  alt="Golang"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Go-00ADD8.svg?style=flat-square&logo=gopher" height="36"  alt="Golang"/>
 </a>
 <!-- Kotlin -->
 <a href="https://kotlinlang.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Kotlin-472e63.svg?style=flat-square&logo=kotlinColored" height="40"  alt="Kotlin" />
+<img src="https://custom-icon-badges.demolab.com/badge/Kotlin-472e63.svg?style=flat-square&logo=kotlinColored" height="36"  alt="Kotlin" />
 </a>
 <!-- Jetpack Compose -->
 <a href="https://developer.android.com/jetpack/compose" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Jetpack%20Compose-010b0f.svg?style=flat-square&logo=jetpackComposeColored" height="40"  alt="Jetpack Compose" />
+<img src="https://custom-icon-badges.demolab.com/badge/Jetpack%20Compose-010b0f.svg?style=flat-square&logo=jetpackComposeColored" height="36"  alt="Jetpack Compose" />
 </a>
 <!-- C# -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?style=flat-square&logo=csharpColored" height="40"  alt="C#" />
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?style=flat-square&logo=csharpColored" height="36"  alt="C#" />
 </a>
 <!-- .NET -->
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4.svg?style=flat-square&logo=.net&logoColor=fff" height="40"  alt=".NET" />
+<img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4.svg?style=flat-square&logo=.net&logoColor=fff" height="36"  alt=".NET" />
 </a>
 <!-- C++ -->
 <a href="https://isocpp.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/C++-003b69.svg?style=flat-square&logo=cpp" height="40"  alt="C++" />
+<img src="https://custom-icon-badges.demolab.com/badge/C++-003b69.svg?style=flat-square&logo=cpp" height="36"  alt="C++" />
 </a>
 <!-- Rust -->
 <a href="https://www.rust-lang.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Rust-762400.svg?style=flat-square&logo=rust" height="40"  alt="Rust" />
+<img src="https://custom-icon-badges.demolab.com/badge/Rust-762400.svg?style=flat-square&logo=rust" height="36"  alt="Rust" />
 </a>
 <!-- Java -->
 <a href="https://www.java.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Java-979593.svg?style=flat-square&logo=javaColored" height="40"  alt="Java" />
+<img src="https://custom-icon-badges.demolab.com/badge/Java-979593.svg?style=flat-square&logo=javaColored" height="36"  alt="Java" />
 </a>
 <!-- Vite -->
 <a href="https://vitejs.dev/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Vite-5056cc.svg?style=flat-square&logo=vitecolored" height="40"  alt="Vite" />
+<img src="https://custom-icon-badges.demolab.com/badge/Vite-5056cc.svg?style=flat-square&logo=vitecolored" height="36"  alt="Vite" />
 </a>
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=fff" height="40"  alt="MySQL" />
+<img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=fff" height="36"  alt="MySQL" />
 </a>
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgreSQL&logoColor=fff" height="40"  alt="PostgreSQL" />
+<img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgreSQL&logoColor=fff" height="36"  alt="PostgreSQL" />
 </a>
 <!-- SQLite -->
 <a href="https://www.sqlite.org/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/SQLite-555555.svg?style=flat-square&logo=sqlitecolored" height="40"  alt="SQLite" />
+<img src="https://custom-icon-badges.demolab.com/badge/SQLite-555555.svg?style=flat-square&logo=sqlitecolored" height="36"  alt="SQLite" />
 </a>
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/Git-555555.svg?style=flat-square&logo=git" height="40"  alt="Git" />
+<img src="https://custom-icon-badges.demolab.com/badge/Git-555555.svg?style=flat-square&logo=git" height="36"  alt="Git" />
 </a>
 
 <br>
