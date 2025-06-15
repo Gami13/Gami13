@@ -1,9 +1,8 @@
 # Hi, I'm Gami
 
-A developer from Poland with a background in web and mobile development, preparing for a computer science degree. I focus on practical application and continuous learning about technology.
+My real name is Marcin and I am a developer from Poland with a background in web and mobile development, preparing for a computer science degree. I focus on practical application and continuous learning about technology.
 
-Currently, I'm developing a Music Player app (a personal project evolved from a school assignment) and creating a PC setup script to streamline my development environment setup.
-
+Currently, I’m developing a Music Player app (a personal project evolved from a school assignment) and creating a PC setup script to streamline my development environment setup.
 <br>
 
 
@@ -251,15 +250,33 @@ Currently, I'm developing a Music Player app (a personal project evolved from a 
 ## Contact
 You can reach me via email or Discord:
 
--   **Email:** [gamiofficial0@gmail.com](mailto:gamiofficial0@gmail.com) | [marcinczechowicz@outlook.com](mailto:marcinczechowicz@outlook.com)
+-   **Email:** [marcinczechowicz@outlook.com](mailto:marcinczechowicz@outlook.com)
 -   **Discord:** gami13
-
-I'm most responsive on Discord.
 
 <br>
 
 
 ## Timeline of my other projects
-| Timespan            | Project      | Description | Repository                                      |
-| ------------------- | ------------ | ----------- | ----------------------------------------------- |
-| February 2025 - Now | Music Player |             | [GitHub](https://github.com/Gami13/MusicPlayer) |
+This a timeline of my other projects, which I worked on in my free time or for school assignments. Some of them are not finished, and the list is not exhaustive.
+| Start&nbsp;Date | End&nbsp;Date | Project                                                  | Description                                                                                                                                             |                                    Repository                                    |
+| :-------------: | :-----------: | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------: |
+|     2025-06     |      Now      | Stock Ticker for OBS                                     |                                                                                                                                                         |               [StockTicker](https://github.com/Gami13/StockTicker)               |
+|     2025-02     |      Now      | Music Player                                             |                                                                                                                                                         |               [MusicPlayer](https://github.com/Gami13/MusicPlayer)               |
+|     2024-07     |    2024-09    | Software Developer at TLC                                |                                                                                                                                                         |                                     Private                                      |
+|     2024-05     |    2024-06    | Software Development Intern at TLC                       |                                                                                                                                                         |                                     Private                                      |
+|     2024-02     |    2024-03    | Millionaires - A computer related quiz game              |                                                                                                                                                         |             [Millionaires](https://github.com/ErisTeam/Millionaires)             |
+|     2024-01     |    2024-01    | WSV Implementation for Go                                | Simple implementation of a parser for White Space Separated Values (WSV) in Go as described in [the WSV Guide](https://dev.stenway.com/WSV/Index.html). |               [WSV-golang](https://github.com/Gami13/WSV-golang/)                |
+|     2023-12     |    2024-07    | Ghaspy                                                   | Twitter clone developed as a showcase for class to boost grades                                                                                         |                    [Ghaspy](https://github.com/Gami13/Ghaspy)                    |
+|     2023-10     |    2024-10    | School Projects                                          | A random dump of school projects I needed to do for class                                                                                               |            [schoolProjects](https://github.com/Gami13/schoolProjects)            |
+|     2023-08     |    2023-10    | Can I Skip                                               | Android app to track school attendance and calculate allowed absences based on a user-set percentage.                                                   |                [can-i-skip](https://github.com/Gami13/can-i-skip)                |
+|     2023-07     |    2023-08    | Chat combiner                                            |                                                                                                                                                         |                [chat-mixer](https://github.com/Gami13/chat-mixer)                |
+|     2023-05     |    2023-06    | Software Development Intern at TLC                       |                                                                                                                                                         |                                     Private                                      |
+|     2023-04     |    2023-04    | Simple Neural Network for recognizing handwritten digits |                                                                                                                                                         | [supervised_learning_mnist](https://github.com/Gami13/supervised_learning_mnist) |
+|     2023-03     |    2023-04    | Expense Tracker                                          |                                                                                                                                                         |            [ExpenseTracker](https://github.com/Gami13/ExpenseTracker)            |
+|     2023-01     |    2023-12    | Strife - Discord Client                                  |                                                                                                                                                         |                   [Strife](https://github.com/ErisTeam/strife)                   |
+|     2022-10     |    2022-11    | Sorting Visualizer                                       |                                                                                                                                                         |         [SortingVisualizer](https://github.com/Gami13/SortingVisualizer)         |
+|     2022-10     |    2022-10    | Hack Heroes 2022                                         | Internet application made for a coding competition                                                                                                      |            [HackHeroes2022](https://github.com/Gami13/HackHeroes2022)            |
+|     2022-02     |    2022-05    | Legacy of Ignacy Łukasiewicz                             | A website showcasing the legacy of Ignacy Łukasiewicz, my high school’s patron                                                                          |  [IgnacyLukasiewiczProject](https://github.com/Gami13/IgnacyLukasiewiczProject)  |
+|     2021-06     |    2021-07    | IT Intern at PELG                                        |                                                                                                                                                         |                                                                                  |
+
+
