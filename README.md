@@ -2,7 +2,6 @@
 
 My real name is Marcin and I am a developer from Poland with a background in web and mobile development, preparing for a computer science degree. I focus on practical application and continuous learning about technology.
 
-Currently, I’m developing a Music Player app (a personal project evolved from a school assignment) and creating a PC setup script to streamline my development environment setup.
 <br>
 
 
